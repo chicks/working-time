@@ -5,8 +5,8 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "working-time"
-    gem.summary = %Q{TODO: one-line summary of your gem}
-    gem.description = %Q{TODO: longer description of your gem}
+    gem.summary = %Q{Calculate work hours for a given date range}
+    gem.description = %Q{Need to figure out how many working hours are in a date range?  Need to calculate around holidays, on-call schedules, etc?  Use this gem!}
     gem.email = "carl.hicks@gmail.com"
     gem.homepage = "http://github.com/chicks/working-time"
     gem.authors = ["Carl Hicks"]
